@@ -1,4 +1,4 @@
-# UPRM High Energy Physics (HEP) — Software & Computing
+# UPRM High Energy Physics (HEP)
 
 Welcome to the **University of Puerto Rico at Mayagüez (UPRM) High Energy Physics (HEP) Group** GitHub organization.
 
