@@ -31,7 +31,7 @@ This group currently includes:
   https://charma.uprm.edu/~malik/
 
 - **Dr. Arghya Chattopadhyay**  
-  Postdoctoral Researcher  
+  Faculty, High Energy Physics 
   https://chattopadhyaya.github.io
 
 - **Master’s students** (UPRM HEP Program)  
