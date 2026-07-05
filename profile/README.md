@@ -26,18 +26,29 @@ Where appropriate, projects are released as **open-source software** to encourag
 
 This group currently includes:
 
-- **Prof. Sudhir Malik**  
-  Faculty, High Energy Physics
+- **Prof. Sudhir Malik**\
+  Faculty, High Energy Physics\
   https://charma.uprm.edu/~malik/
 
-- **Dr. Arghya Chattopadhyay**  
-  Faculty, High Energy Physics
+- **Dr. Arghya Chattopadhyay**\
+  Faculty, High Energy Physics\
   https://chattopadhyaya.github.io
 
-- **Master’s students** (UPRM HEP Program)  
-  *(List will be expanded as projects and memberships grow)*
-
-> This section is intentionally kept open and will be updated progressively to reflect current group members, contributors, and alumni.
+- **Master’s students** 
+  - Mario Escabi-Rivera
+  - Juvenal A Bassa-Penaloza
+  - Iliomar Rodriguez-Ramos
+  - Mauricio Bandera-Delahoz
+  - Hugo Alejandro Torres-Ramirez
+  - Sergio Paolo Ruben
+    
+- **Bachelor’s students**
+  - Miguel Aponte Lopez
+  - Mateo Lisondo di Tada
+  - Diego A Velazquez Montes
+  
+- **PhD students** 
+  - Alexis Aguirre-Narvaez 
 
 ---
 
