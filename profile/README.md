@@ -27,11 +27,11 @@ Where appropriate, projects are released as **open-source software** to encourag
 This group currently includes:
 
 - **Prof. Sudhir Malik**  
-  Faculty, High Energy Physics  
+  Faculty, High Energy Physics
   https://charma.uprm.edu/~malik/
 
 - **Dr. Arghya Chattopadhyay**  
-  Faculty, High Energy Physics 
+  Faculty, High Energy Physics
   https://chattopadhyaya.github.io
 
 - **Master’s students** (UPRM HEP Program)  
