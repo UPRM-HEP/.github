@@ -36,7 +36,7 @@ This group currently includes:
 
 - **Dr. Pranati Jana**\
   Postdoctoral Fellow, High Energy Physics\
-  [https://chattopadhyaya.github.io](https://github.com/Pranati-Jana)
+  [https://github.com/Pranati-Jana](https://github.com/Pranati-Jana)
 
 - **Master’s students** 
   - Mario Escabi-Rivera
