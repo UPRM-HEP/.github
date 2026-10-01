@@ -22,7 +22,7 @@ Where appropriate, projects are released as **open-source software** to encourag
 
 ---
 
-## Members (as of 2026)
+## Current Members
 
 This group currently includes:
 
@@ -32,23 +32,38 @@ This group currently includes:
 
 - **Dr. Arghya Chattopadhyay**\
   Faculty, High Energy Physics\
-  https://chattopadhyaya.github.io
+  [https://chattopadhyaya.github.io](https://chattopadhyaya.github.io/#home)
+
+- **Dr. Pranati Jana**\
+  Postdoctoral Fellow, High Energy Physics\
+  [https://chattopadhyaya.github.io](https://github.com/Pranati-Jana)
 
 - **Master’s students** 
   - Mario Escabi-Rivera
   - Juvenal A Bassa-Penaloza
   - Iliomar Rodriguez-Ramos
-  - Mauricio Bandera-Delahoz
-  - Hugo Alejandro Torres-Ramirez
   - Sergio Paolo Ruben
+  - Wilmer David ojito Martínez
+  - Camilo Andrés González Calderón
+  - Carlos Andrés Hernández Valdez
     
 - **Bachelor’s students**
   - Miguel Aponte Lopez
-  - Mateo Lisondo di Tada
   - Diego A Velazquez Montes
   
 - **PhD students** 
-  - Alexis Aguirre-Narvaez 
+  - Alexis Aguirre-Narvaez
+ 
+## Past Members
+
+- **Master’s students**
+  - Mauricio Bandera-Delahoz
+  - Hugo Alejandro Torres-Ramirez
+
+- **Bachelor’s students**
+  - Mateo Lisondo di Tada
+
+
 
 ---
 
